@@ -1,0 +1,18 @@
+
+<h2 class="text-2xl font-bold mb-4">Criar Nova Rota</h2>
+
+    <form (ngSubmit)="onSubmit()" #rotaCadastro="ngForm" class="max-w-md">
+      <div class="mb-4">
+        <label for="origem" class="block mb-2">Origem:</label>
+        <input type="text" id="origem" name="origem" [(ngModel)]="rota.origem" required class="w-full px-3 py-2 border rounded">
+      </div>
+      <div class="mb-4">
+        <label for="destino" class="block mb-2">Destino:</label>
+        <input type="text" id="destino" name="destino" [(ngModel)]="rota.destino" required class="w-full px-3 py-2 border rounded">
+      </div>
+      <div class="mb-4">
+        <label for="valor" class="block mb-2">Valor:</label>
+        <input type="number" id="valor" name="valor" [(ngModel)]="rota.valor" required class="w-full px-3 py-2 border rounded">
+      </div>
+      <button type="submit" [disabled]="!rotaCadastro.form.valid" class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600">Criar Rota</button>
+    </form>

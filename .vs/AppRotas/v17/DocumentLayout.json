@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\projetoTeste8979\\AppRotas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BBA4E9-E855-4726-A6F2-C01BDEC3589C}|ApiRotas\\ApiRotas.csproj|c:\\dev\\projetoteste8979\\approtas\\apirotas\\repositories\\rotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BBA4E9-E855-4726-A6F2-C01BDEC3589C}|ApiRotas\\ApiRotas.csproj|solutionrelative:apirotas\\repositories\\rotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BBA4E9-E855-4726-A6F2-C01BDEC3589C}|ApiRotas\\ApiRotas.csproj|c:\\dev\\projetoteste8979\\approtas\\apirotas\\controllers\\rotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BBA4E9-E855-4726-A6F2-C01BDEC3589C}|ApiRotas\\ApiRotas.csproj|solutionrelative:apirotas\\controllers\\rotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BBA4E9-E855-4726-A6F2-C01BDEC3589C}|ApiRotas\\ApiRotas.csproj|c:\\dev\\projetoteste8979\\approtas\\apirotas\\model\\rota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BBA4E9-E855-4726-A6F2-C01BDEC3589C}|ApiRotas\\ApiRotas.csproj|solutionrelative:apirotas\\model\\rota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BBA4E9-E855-4726-A6F2-C01BDEC3589C}|ApiRotas\\ApiRotas.csproj|c:\\dev\\projetoteste8979\\approtas\\apirotas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BBA4E9-E855-4726-A6F2-C01BDEC3589C}|ApiRotas\\ApiRotas.csproj|solutionrelative:apirotas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rota.cs",
+              "DocumentMoniker": "C:\\dev\\projetoTeste8979\\AppRotas\\ApiRotas\\Model\\Rota.cs",
+              "RelativeDocumentMoniker": "ApiRotas\\Model\\Rota.cs",
+              "ToolTip": "C:\\dev\\projetoTeste8979\\AppRotas\\ApiRotas\\Model\\Rota.cs",
+              "RelativeToolTip": "ApiRotas\\Model\\Rota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T22:26:58.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RotaRepository.cs",
+              "DocumentMoniker": "C:\\dev\\projetoTeste8979\\AppRotas\\ApiRotas\\Repositories\\RotaRepository.cs",
+              "RelativeDocumentMoniker": "ApiRotas\\Repositories\\RotaRepository.cs",
+              "ToolTip": "C:\\dev\\projetoTeste8979\\AppRotas\\ApiRotas\\Repositories\\RotaRepository.cs",
+              "RelativeToolTip": "ApiRotas\\Repositories\\RotaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T22:25:20.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RotasController.cs",
+              "DocumentMoniker": "C:\\dev\\projetoTeste8979\\AppRotas\\ApiRotas\\Controllers\\RotasController.cs",
+              "RelativeDocumentMoniker": "ApiRotas\\Controllers\\RotasController.cs",
+              "ToolTip": "C:\\dev\\projetoTeste8979\\AppRotas\\ApiRotas\\Controllers\\RotasController.cs",
+              "RelativeToolTip": "ApiRotas\\Controllers\\RotasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T22:23:34.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\projetoTeste8979\\AppRotas\\ApiRotas\\Program.cs",
+              "RelativeDocumentMoniker": "ApiRotas\\Program.cs",
+              "ToolTip": "C:\\dev\\projetoTeste8979\\AppRotas\\ApiRotas\\Program.cs",
+              "RelativeToolTip": "ApiRotas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T22:19:42.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
