@@ -77,8 +77,8 @@ namespace ApiRotas.Repositories
         {
             var rotas = GetRotasFromCache();
             return await Task.FromResult(rotas
-                .Where(r => r.Origem == origem && r.Destino == destino)
-                .OrderByDescending(r => r.Valor)
+                .Where(r => r.Origem == origem && (r.Destino == destino || r.conexoes.Contains(destino)))
+                .OrderBy(r => r.Valor)
                 .FirstOrDefault());
         }
     }
